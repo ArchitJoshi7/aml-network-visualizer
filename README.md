@@ -127,5 +127,4 @@ aml-network-visualizer/
 
 ## Author
 
-Built by [Your Name] as part of a fintech PM portfolio.  
-Targeting product roles at hedge funds and compliance-focused fintech firms.
+Built by Archit Joshi
